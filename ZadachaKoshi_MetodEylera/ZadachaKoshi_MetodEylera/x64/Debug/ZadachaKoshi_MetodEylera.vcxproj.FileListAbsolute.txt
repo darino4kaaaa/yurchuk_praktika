@@ -1,0 +1,6 @@
+C:\Users\Miraculous\source\repos\ZadachaKoshi_MetodEylera\ZadachaKoshi_MetodEylera\x64\Debug\ZadachaKoshi_MetodEylera.vcxproj.AssemblyReference.cache
+C:\Users\Miraculous\source\repos\ZadachaKoshi_MetodEylera\ZadachaKoshi_MetodEylera\x64\Debug\ZadachaKoshiMetodEylera.MyForm.resources
+C:\Users\Miraculous\source\repos\ZadachaKoshi_MetodEylera\ZadachaKoshi_MetodEylera\x64\Debug\ZadachaKoshi_MetodEylera.vcxproj.GenerateResource.cache
+C:\Users\Miraculous\Desktop\Ання\ZadachaKoshi_MetodEylera\ZadachaKoshi_MetodEylera\x64\Debug\ZadachaKoshi_MetodEylera.vcxproj.AssemblyReference.cache
+C:\Users\Miraculous\Desktop\Ання\ZadachaKoshi_MetodEylera\ZadachaKoshi_MetodEylera\x64\Debug\ZadachaKoshiMetodEylera.MyForm.resources
+C:\Users\Miraculous\Desktop\Ання\ZadachaKoshi_MetodEylera\ZadachaKoshi_MetodEylera\x64\Debug\ZadachaKoshi_MetodEylera.vcxproj.GenerateResource.cache

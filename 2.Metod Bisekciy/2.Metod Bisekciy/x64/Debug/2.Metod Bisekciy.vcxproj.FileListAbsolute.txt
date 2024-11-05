@@ -1,0 +1,6 @@
+C:\Users\Miraculous\source\repos\2.Metod Bisekciy\2.Metod Bisekciy\x64\Debug\2.Metod Bisekciy.vcxproj.AssemblyReference.cache
+C:\Users\Miraculous\source\repos\2.Metod Bisekciy\2.Metod Bisekciy\x64\Debug\My2MetodBisekciy.MyForm.resources
+C:\Users\Miraculous\source\repos\2.Metod Bisekciy\2.Metod Bisekciy\x64\Debug\2.Metod Bisekciy.vcxproj.GenerateResource.cache
+C:\Users\Miraculous\Desktop\Ання\2.Metod Bisekciy\2.Metod Bisekciy\x64\Debug\2.Metod Bisekciy.vcxproj.AssemblyReference.cache
+C:\Users\Miraculous\Desktop\Ання\2.Metod Bisekciy\2.Metod Bisekciy\x64\Debug\My2MetodBisekciy.MyForm.resources
+C:\Users\Miraculous\Desktop\Ання\2.Metod Bisekciy\2.Metod Bisekciy\x64\Debug\2.Metod Bisekciy.vcxproj.GenerateResource.cache

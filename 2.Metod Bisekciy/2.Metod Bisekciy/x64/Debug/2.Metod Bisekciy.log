@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (2).Metod Bisekciy.vcxproj, Metod_Bisekciy.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  2.Metod Bisekciy.vcxproj -> C:\Users\Miraculous\Desktop\Ання\2.Metod Bisekciy\x64\Debug\YurchukDarina2.exe

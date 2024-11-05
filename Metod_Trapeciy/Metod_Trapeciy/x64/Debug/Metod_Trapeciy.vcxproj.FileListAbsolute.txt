@@ -1,0 +1,6 @@
+C:\Users\Miraculous\source\repos\Metod_Trapeciy\Metod_Trapeciy\x64\Debug\Metod_Trapeciy.vcxproj.AssemblyReference.cache
+C:\Users\Miraculous\source\repos\Metod_Trapeciy\Metod_Trapeciy\x64\Debug\MetodTrapeciy.MyForm.resources
+C:\Users\Miraculous\source\repos\Metod_Trapeciy\Metod_Trapeciy\x64\Debug\Metod_Trapeciy.vcxproj.GenerateResource.cache
+C:\Users\Miraculous\Desktop\Ання\Metod_Trapeciy\Metod_Trapeciy\x64\Debug\Metod_Trapeciy.vcxproj.AssemblyReference.cache
+C:\Users\Miraculous\Desktop\Ання\Metod_Trapeciy\Metod_Trapeciy\x64\Debug\MetodTrapeciy.MyForm.resources
+C:\Users\Miraculous\Desktop\Ання\Metod_Trapeciy\Metod_Trapeciy\x64\Debug\Metod_Trapeciy.vcxproj.GenerateResource.cache
